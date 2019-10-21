@@ -3,8 +3,8 @@
 Essa repositório contém uma aula introdutória sobre processamento de imagem aplicado no problema de rastreamento de animais em situações experimentais.
 
 # Técnicas usadas
-As tecnicas explorada nessa aula são:
-- Técnicas de  segmentação de plano de fundo;
+As tecnicas que serão explicadas nessa aula são:
+- Segmentação de plano de fundo;
 - Limiarização;
 - Filtros morfológicos;
 - Localização de contornos na imagem; 
